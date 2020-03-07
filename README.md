@@ -9,6 +9,7 @@
 # 人工智慧
 ```
 Python程式
+   https://github.com/HappyHackingHigh/HappyPythonDay/tree/master/python
 資料分析:
 機器學習:
 深度學習:
