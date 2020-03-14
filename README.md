@@ -18,3 +18,20 @@ Python程式
 機器學習:
 深度學習:
 ```
+# 資料分析:NUMPY   Matplotlib   PANDAS
+## numpy 實戰練習
+```
+
+```
+
+##  Matplotlib實戰練習
+```
+
+```
+
+## PANDAS實戰練習
+```
+
+```
+
+#
