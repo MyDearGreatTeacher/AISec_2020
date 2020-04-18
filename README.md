@@ -9,7 +9,17 @@
 ```
 https://github.com/MyDearGreatTeacher/AI4ALL
 ```
+# 資訊安全主題
+### PT: LINUX Server滲透測試實戰
+```
+VSFTPD v2.3.4 Backdoor Command Execution
+https://www.youtube.com/watch?v=6XHrF4x_0i0
 
+https://www.rapid7.com/db/modules/exploit/unix/ftp/vsftpd_234_backdoor
+
+VSFTPD v2.3.4 Backdoor Command Execution 简易分析
+http://wp.blkstone.me/2019/08/vsftpd-v2-3-4-backdoor-command-execution-brief-analysis/
+```
 # 人工智慧
 ```
 Python程式
