@@ -5,6 +5,13 @@
 資訊安全
 期末考
 ```
+# 20200425
+```
+人工智慧tensorflow影像辨識
+
+Image classification
+https://www.tensorflow.org/tutorials/images/classification
+```
 # 參考書與教科書
 ```
 https://github.com/MyDearGreatTeacher/AI4ALL
