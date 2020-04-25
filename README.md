@@ -38,9 +38,42 @@ https://www.hackingarticles.in/web-shells-penetration-testing/
 一句話木馬
 web shell 程式分析
 ```
-
 ```
+攻擊HTTP Authentication(認證)的各種技巧
+Multiple Ways To Exploiting HTTP Authentication
+https://www.hackingarticles.in/multiple-ways-to-exploiting-http-authentication/
 
+學習目標:
+1.熟悉HTTP Authentication基本觀念
+2.熟悉HTTP Authentication的設定技術
+3.熟悉HTTP Authentication的各種攻擊技術
+
+Exploiting HTTP Authentication
+xHydra
+Hydra
+Ncrack
+Medusa
+Metasploit
+Burp Suite
+```
+```
+Multiple Ways to Crack WordPress login
+攻擊WordPress網站的登入===猜帳號與密碼
+https://www.hackingarticles.in/multiple-ways-to-crack-wordpress-login/
+
+暴力攻擊
+測試環境建置
+三種實戰案例
+如何避免暴力攻擊的成功 How to avoid a Brute Force attack?
+```
+```
+使用docker技術建置各種網站測試平台
+
+https://www.hackingarticles.in/web-application-pentest-lab-setup-using-docker/
+
+git clone https://github.com/eystsen/pentestlab.git
+cd pentestLab
+./pentestLab.sh --help
 ```
 ### 期中報告題目
 ```
