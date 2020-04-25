@@ -5,6 +5,42 @@
 資訊安全
 期末考
 ```
+### 期中/末報告題目
+```
+1.論文相關
+2.國內外碩士論文或經典論文
+3.資訊安全實戰:  資訊安全測試
+  vuln hub
+  https://www.vulnhub.com/
+  
+  解答範本:
+  
+  [1]遠端卓面協定漏洞分析
+  RDP Session Hijacking with tscon
+  https://www.hackingarticles.in/rdp-session-hijacking-with-tscon/
+  [2]Chatbot security
+    Security Best Practices for Bot Builders
+    https://www.slideshare.net/MaxFeldman4/security-best-practices-for-bot-builders
+    根本是網站漏洞
+```
+### 資安測試主題
+```
+Web Shells Penetration Testing ===上傳惡意程式到網站
+https://www.hackingarticles.in/web-shells-penetration-testing/
+
+漏洞測試平台:
+  [1]DVWA
+  [2]使用PentesterLab:Web for Pentester平台
+     https://pentesterlab.com/exercises/web_for_pentester/course
+```
+
+```
+
+```
+### 期中報告題目
+```
+
+```
 # 20200425
 ```
 人工智慧tensorflow影像辨識
