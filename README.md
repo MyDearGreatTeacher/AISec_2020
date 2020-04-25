@@ -39,6 +39,15 @@ https://www.hackingarticles.in/web-shells-penetration-testing/
 web shell 程式分析
 ```
 ```
+PentesterLab:Web for Pentester平台安裝與測試
+[1]安裝
+   web for pentester lab 1&2 installation in virtual box in linux
+   https://www.youtube.com/watch?v=Njrt5aRswOc
+[2]解答
+   Web For Pentester - SQL Injection 1
+   https://www.youtube.com/watch?v=w1LHfGiHmYs
+```
+```
 攻擊HTTP Authentication(認證)的各種技巧
 Multiple Ways To Exploiting HTTP Authentication
 https://www.hackingarticles.in/multiple-ways-to-exploiting-http-authentication/
