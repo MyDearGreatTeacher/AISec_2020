@@ -25,13 +25,18 @@
 ```
 ### 資安測試主題
 ```
-Web Shells Penetration Testing ===上傳惡意程式到網站
+Web Shells Penetration Testing ===上傳惡意程式到網站  然後在執行此惡意程式
 https://www.hackingarticles.in/web-shells-penetration-testing/
 
 漏洞測試平台:
   [1]DVWA
   [2]使用PentesterLab:Web for Pentester平台
      https://pentesterlab.com/exercises/web_for_pentester/course
+
+請參考報告範本
+延伸建議:增加許多討論
+一句話木馬
+web shell 程式分析
 ```
 
 ```
