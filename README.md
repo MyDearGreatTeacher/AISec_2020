@@ -84,6 +84,20 @@ git clone https://github.com/eystsen/pentestlab.git
 cd pentestLab
 ./pentestLab.sh --help
 ```
+### MalwareAnalysisForHedgehogs
+```
+https://www.youtube.com/channel/UCVFXrUwuWxNlm6UNZtBLJ-A
+```
+```
+Malware Analysis - Dumping COVID-19.jar RAT with Java Instrumentation
+觀看次數：820次•2020年4月25日
+https://www.youtube.com/watch?v=QAzs66psLjY&feature=em-uploademail
+```
+```
+Malware Analysis - Unpacking NetWiredRC With DnSpy
+觀看次數：1,788次•2016年7月10日
+https://www.youtube.com/watch?v=dLIbkg_8O68
+```
 ### 期中報告題目
 ```
 
