@@ -1,3 +1,70 @@
+# 20200517
+```
+漏洞評鑑系統(CVSS) :羅報告
+
+https://ithelp.ithome.com.tw/articles/10203313
+https://secbuzzer.co/post/106
+
+
+漏洞評鑑系統(Common Vulnerability Scoring System；CVSS) 由美國國家基礎建設諮詢委員會 (NIAC) 委託製作，
+是一套公開的評鑑標準，經常被用來評比企業資訊科技系統的安全性，並受到eBay、賽門鐵克(Symantec)、思科(Cisco)、甲古文(Oracle)等眾多軟體廠商支援。
+由於CVSS是運用數學方程式來判定某特定網路的安全性是否存在弱點，普遍被認為較具中立性。
+
+CVSS的判定標準，不但包含威脅的嚴重性，遠端網路是否能遙控資安漏洞、利用網路弱點，攻擊者是否需要登入才會產生威脅等等，都被列入評比。
+
+CVSS的評分分數從0分到10分，0代表沒有發現弱點，而10則代表最高風險。
+https://www.digitimes.com.tw/tech/dt/n/shwnws.asp?cnlid=10&id=0000100727_WBC8XRHR1Y3H1O8HWCHDQ
+
+Common Vulnerability Scoring System Version 3.0 Calculator
+https://www.first.org/cvss/calculator/3.0#CVSS:3.0/AV:N/AC:H/PR:L/UI:N/S:U/C:H/I:H/A:H
+
+以8個面向來進行評分，並得出一個0.0～10.0分的分數，分數越高代表漏洞危險程度越高：
+
+攻擊向量 (Attack Vector, AV)
+Network (N)：由網際網路網路進行攻擊
+Adjacent (A)： 由受限制的網路進行攻擊，如區域網路及藍芽等
+Local (L)：在不連接網路的狀況下進行攻擊
+Physical (P)：需接觸到實體機器才能進行攻擊
+攻擊複雜度 (Attack Complexity, AC)
+Low (L)：低，攻擊可被輕易重現
+High (H)：高，須由攻擊者達成數項條件後才能成功
+是否需要提權 (Privileges Required, PR)
+None (N)：不需要
+Low (L)：需要一般使用者權限
+High (H)：需要管理者權限
+是否需要使用者操作 (User Interaction, UI)
+None (N)：不需要
+Required (R)：需要使用者操作某些動作才能讓攻擊成功
+影響範圍 (Scope, S)
+Unchanged (U) ：僅影響含有漏洞的元件本身
+Changed (C)：會影響到含有漏洞的元件以外的元件
+機密性影響 (Confidentiality, C)
+None (N)：無影響
+Low (L)：攻擊者可以取得機密資料，但無法使用該資料
+High (H)：攻擊者可以取得機密資料，且可以使用該資料
+完整性影響(Integrity, I)
+None (N) ：無影響
+Low (L) ：攻擊者有部分權限以竄改某些資料，對含有漏洞之元件影響較小
+High (H)：攻擊者有權限竄改所有資料，對含有漏洞之元件有嚴重影響
+可用性影響 (Availability, A)
+None (N)：無影響
+Low (L)：可用性受到影響，導致服務或元件仍可被部分取得，或是時好時壞
+High (H)：可用性受到嚴重影響，導致服務或元件完全不可被取得
+
+舉個例子，WannaCry使用的漏洞CVE-2017-0144的CVSSv3分數是8.1，其中8項選項如下：
+Attack Vector (AV): Network
+Attack Complexity (AC): High
+Privileges Required (PR): None
+User Interaction (UI): None
+Scope (S): Unchanged
+Confidentiality (C): High
+Integrity (I): High
+Availability (A): High
+
+如果想要試著玩看看各項排列組合產出的分數是多少，可以到FIRST網站上的CVSSv3計算機去試試看：https://www.first.org/cvss/calculator/3.0 。
+系統也會根據你的選擇產出一個向量字串 (Vector String)，用於描述你對這個漏洞的各項選擇，例如CVE-2017-0144的向量字串長相則為「CVSS:3.0/AV:N/AC:H/PR:N/UI:N/S:U/C:H/I:H/A:H」，我們也可以看出來，這個字串是根據上述8個面向分別描述選擇的答案為何所產出的。
+```
+
 # AI_Sec_2020 課程內容
 ```
 人工智慧
