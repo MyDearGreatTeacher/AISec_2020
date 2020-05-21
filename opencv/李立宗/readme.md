@@ -1,3 +1,28 @@
+
+#
+```
+科班出身的 AI人必修課：OpenCV 影像處理 使用 Python
+李立宗   深智數位
+ISBN:9869807291
+ISBN-13:9789869807296
+
+OpenCV轻松入门：面向python
+李立宗 (作者)　
+书　　号：978-7-121-36290-3
+http://www.broadview.com.cn/book/5745
+```
+```
+世界排名第一的視覺資料庫：opencv開發一本搞定
+
+作者：李立宗
+出版社：佳魁資訊
+出版日期：2017-08-03
+語言：繁體中文
+書號：TD1707
+ISBN：9789863795452
+
+http://www.deepstone.com.tw/xmdoc/cont?xsmsid=0J191295271158913049&sid=0J337081306224904029&sq=opencv
+```
 #
 ```
 科班出身的 AI人必修課：OpenCV 影像處理 使用 Python
